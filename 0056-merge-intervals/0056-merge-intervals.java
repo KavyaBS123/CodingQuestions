@@ -1,19 +1,24 @@
+// 
+
+
+// optimal approach
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if(intervals.length==0) return new int[0][0];
-        Arrays.sort(intervals,(a,b)->(a[0]-b[0]));
-        ArrayList<int[]>ans=new  ArrayList<>();
-      int [] currentInterval=intervals[0];
-      ans.add(currentInterval);
-      for(int i=1;i<intervals.length;i++){
-        int[] interval=intervals[i];
-        if(currentInterval[1]>=interval[0]){
-            currentInterval[1]=Math.max(currentInterval[1],interval[1]);
-        } else{
-            currentInterval=interval;
-            ans.add(currentInterval);
-        }
-      }
-      return ans.toArray(new int[ans.size()][]);
+         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        ArrayList<int[]> ans = new ArrayList<>();
+        ans.add(intervals[0]);
+        for(int i=0;i<intervals.length;i++){
+           int curstart=intervals[i][0];
+           if(curstart<=ans.get(ans.size()-1)[1]){
+            ans.get(ans.size()-1)[1]=
+            Math.max(ans.get(ans.size()-1)[1],intervals[i][1]);
+           }
+else{
+    ans.add(intervals[i]);
+}
     }
+    int res[][]=new int[ans.size()][2];
+    ans.toArray(res);
+    return res;
+}
 }

@@ -9,6 +9,7 @@ Coding Questions I solved
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
+| [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
@@ -32,6 +33,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -98,4 +100,12 @@ Coding Questions I solved
 | [0100-same-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KavyaBS123/CodingQuestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

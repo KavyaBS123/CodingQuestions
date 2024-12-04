@@ -46,6 +46,7 @@ Coding Questions I solved
 | ------- |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -122,4 +123,12 @@ Coding Questions I solved
 | ------- |
 | [0207-course-schedule](https://github.com/KavyaBS123/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

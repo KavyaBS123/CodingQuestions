@@ -42,6 +42,7 @@ Coding Questions I solved
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -142,4 +143,8 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

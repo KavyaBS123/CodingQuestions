@@ -14,39 +14,70 @@ class Solution {
     //     return notTaken || taken;
     // }
     public boolean canPartition(int[] nums) {
-int n=nums.length;
+ int n=nums.length;
 
 
 
-// tabulation approach 
+// // tabulation approach 
+// int totsum=0;
+// for(int i=0;i<n;i++){
+//     totsum+=nums[i];
+
+// }
+// if(totsum%2==1)
+// return false;
+
+//     int k=totsum/2;
+//     boolean dp[][]=new boolean [n][k+1];
+//     for(int i=0;i<n;i++){
+//         dp[i][0]=true;
+//     }
+//     if(nums[0]<=k){
+//         dp[0][nums[0]]=true;
+//     }
+//     for(int ind=1;ind<n;ind++){
+//         for(int target=1;target<=k;target++){
+//             boolean notTaken = dp[ind - 1][target];
+//             boolean taken=false;
+//             if(nums[ind]<=target){
+//                 taken=dp[ind-1][target-nums[ind]];
+
+//             }
+        
+//             dp[ind][target]=notTaken||taken;
+//         }
+//     }
+//     return dp[n-1][k];
+// }
+//     }
+// space optimised
 int totsum=0;
 for(int i=0;i<n;i++){
     totsum+=nums[i];
-
 }
 if(totsum%2==1)
 return false;
 
     int k=totsum/2;
-    boolean dp[][]=new boolean [n][k+1];
-    for(int i=0;i<n;i++){
-        dp[i][0]=true;
-    }
-    if(nums[0]<=k){
-        dp[0][nums[0]]=true;
+    boolean prev[] = new boolean[k+1];
+    prev[0]=true;
+    if
+    (nums[0]<=k){
+        prev[nums[0]]=true;
     }
     for(int ind=1;ind<n;ind++){
+        boolean cur[]=new boolean [k+1];
+        cur[0]=true;
         for(int target=1;target<=k;target++){
-            boolean notTaken = dp[ind - 1][target];
+            boolean notTaken=prev[target];
             boolean taken=false;
             if(nums[ind]<=target){
-                taken=dp[ind-1][target-nums[ind]];
-
+                taken=prev[target-nums[ind]];
             }
-        
-            dp[ind][target]=notTaken||taken;
+            cur[target]=notTaken || taken;
         }
+        prev=cur;
     }
-    return dp[n-1][k];
+    return prev[k];
 }
     }

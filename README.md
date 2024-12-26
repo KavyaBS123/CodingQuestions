@@ -6,6 +6,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
@@ -149,4 +150,8 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

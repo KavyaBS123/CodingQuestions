@@ -11,6 +11,7 @@ Coding Questions I solved
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
@@ -51,6 +52,7 @@ Coding Questions I solved
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |

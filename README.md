@@ -12,6 +12,7 @@ Coding Questions I solved
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ Coding Questions I solved
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
@@ -112,6 +114,7 @@ Coding Questions I solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/KavyaBS123/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |

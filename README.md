@@ -47,6 +47,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -59,6 +60,7 @@ Coding Questions I solved
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |

@@ -49,6 +49,7 @@ Coding Questions I solved
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ Coding Questions I solved
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack

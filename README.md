@@ -150,6 +150,7 @@ Coding Questions I solved
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -172,4 +173,12 @@ Coding Questions I solved
 | ------- |
 | [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0494-target-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

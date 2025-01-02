@@ -7,27 +7,33 @@ class Solution {
        if(n==0){
         return 0;
        }
-       int dp[][]=new int[n+1][2];
+       int ahead[]=new int[2];
+       int cur[]=new int[2];
+       ahead[0]=ahead[1]=0;
+       
+            int profit=0;
+       
        for(int ind=n-1;ind>=0;ind--){
         for(int buy=0;buy<=1;buy++){
-            int profit=0;
+            
              if (buy == 0) { // We can buy the stock
-            profit = Math.max(0 + dp[ind+1][0],
-             -prices[ind] + dp[ind+1][1]);
+            profit = Math.max(0 + ahead[0],
+             -prices[ind] + ahead[1]);
         }
 
         if (buy == 1) { // We can sell the stock
-            profit = Math.max(0 + dp[ind+1][1],
-             prices[ind] - fee + dp[ind+1][0]);
+            profit = Math.max(0 + ahead[1],
+             prices[ind] - fee + ahead[0]);
         }
 
         // Store the result in dp and return it
-        dp[ind][buy] = profit;
+        cur[buy] = profit;
     
     }
+    ahead=(int[])(cur.clone());
         
        }
-       return dp[0][0];
+       return cur[0];
       
     }
 }

@@ -23,6 +23,7 @@ Coding Questions I solved
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -39,6 +40,7 @@ Coding Questions I solved
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -81,6 +83,7 @@ Coding Questions I solved
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |

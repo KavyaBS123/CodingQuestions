@@ -27,11 +27,13 @@ Coding Questions I solved
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -53,6 +55,7 @@ Coding Questions I solved
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -62,6 +65,7 @@ Coding Questions I solved
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -89,6 +93,7 @@ Coding Questions I solved
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -152,6 +157,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 ## Counting
 |  |
 | ------- |

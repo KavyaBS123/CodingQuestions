@@ -29,6 +29,7 @@ Coding Questions I solved
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
+| [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -104,6 +105,7 @@ Coding Questions I solved
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |

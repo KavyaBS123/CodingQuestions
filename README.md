@@ -33,6 +33,7 @@ Coding Questions I solved
 | [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -111,6 +112,7 @@ Coding Questions I solved
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Stack
@@ -248,6 +250,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |

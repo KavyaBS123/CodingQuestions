@@ -11,6 +11,7 @@ Coding Questions I solved
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
+| [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaBS123/CodingQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -85,6 +86,7 @@ Coding Questions I solved
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaBS123/CodingQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +116,7 @@ Coding Questions I solved
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KavyaBS123/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaBS123/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaBS123/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -241,4 +244,12 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

@@ -72,6 +72,7 @@ Coding Questions I solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/KavyaBS123/CodingQuestions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0132-palindrome-partitioning-ii) |

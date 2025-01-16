@@ -71,6 +71,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/KavyaBS123/CodingQuestions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
@@ -183,6 +184,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -204,6 +206,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 ## Memoization

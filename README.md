@@ -207,6 +207,7 @@ Coding Questions I solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 ## Memoization
@@ -241,6 +242,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/KavyaBS123/CodingQuestions/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Indexed Tree
 |  |

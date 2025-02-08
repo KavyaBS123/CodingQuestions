@@ -92,6 +92,7 @@ Coding Questions I solved
 | ------- |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
@@ -212,6 +213,7 @@ Coding Questions I solved
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 ## Memoization
@@ -277,4 +279,8 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KavyaBS123/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

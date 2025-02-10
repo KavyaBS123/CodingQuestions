@@ -8,6 +8,7 @@ Coding Questions I solved
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
@@ -226,6 +227,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |

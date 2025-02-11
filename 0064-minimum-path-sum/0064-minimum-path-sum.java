@@ -1,4 +1,4 @@
-//TABULATION APPROACH
+//MEMOIZATION APPROACH
 
 // class Solution {
 //     static int minsumpathutil(int i, int j, int[][] grid , int[][] dp){
@@ -25,31 +25,65 @@
 // SC: O((M-1)+(N-1))+O(N*M)
 
 
+//TABULATION APPROACH
+// class Solution {
+//       public int minPathSum(int[][] grid) {
+//         int n=grid.length;
+//         int m=grid[0].length;
+//         int dp[][]=new int[n][m];
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(i==0 && j==0)
+//                 dp[i][j]=grid[i][j];
+//                 else{
+//                     int up=grid[i][j];
+//                     if(i>0)
+//                     up+=dp[i-1][j];
+//                     else
+//                     up+=(int) Math.pow(10,9);
+//                     int left=grid[i][j];
+//                     if(j>0)
+//                     left+=dp[i][j-1];
+//                     else
+//                     left+=(int) Math.pow(10,9);
+//                     dp[i][j]=Math.min(up,left);
+//                 }
+//             }
+//         }
+//         return dp[n-1][m-1];
+//       }
+// }
+//SC:O(N*M)
 
+
+//SPACE OPTIMIZED
 class Solution {
-      public int minPathSum(int[][] grid) {
+     public int minPathSum(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        int dp[][]=new int[n][m];
+        int prev[]=new int[m];
         for(int i=0;i<n;i++){
+            int temp[]=new int[m];
             for(int j=0;j<m;j++){
-                if(i==0 && j==0)
-                dp[i][j]=grid[i][j];
+                if(i==0 &&j==0)
+                temp[j]=grid[i][j];
                 else{
                     int up=grid[i][j];
                     if(i>0)
-                    up+=dp[i-1][j];
+                    up+=prev[j];
                     else
                     up+=(int) Math.pow(10,9);
                     int left=grid[i][j];
                     if(j>0)
-                    left+=dp[i][j-1];
+                    left+=temp[j-1];
                     else
                     left+=(int) Math.pow(10,9);
-                    dp[i][j]=Math.min(up,left);
+                    temp[j]=Math.min(up,left);
+
                 }
             }
+            prev=temp;
         }
-        return dp[n-1][m-1];
-      }
+        return prev[m-1];
+     }
 }

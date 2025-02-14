@@ -18,9 +18,6 @@ class Solution {
         // return dp[ind][amount];
         for(int ind=1;ind<n;ind++){
             for(int target=0;target<=amount;target++){
-                
-            
-        
         int notTaken=0+dp[ind-1][target];
         int taken=(int) Math.pow(10,9);
         if(coins[ind]<=target)

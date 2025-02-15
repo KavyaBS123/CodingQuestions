@@ -1,14 +1,41 @@
+
+
+// class Solution {
+//     public int change(int amount, int[] coins) {
+//         int [] dp=new int[amount+1];
+//         dp[0]=1;
+//         for(int coin:coins){
+//             for(int i=1;i<=amount;i++){
+//                 if(coin<=i){
+//                     dp[i]+=dp[i-coin];
+//                 }
+//             }
+//         }
+//       return dp[amount];
+//     }
+// }
+// MEMOIZATION APPROACH:
 class Solution {
     public int change(int amount, int[] coins) {
-        int [] dp=new int[amount+1];
-        dp[0]=1;
-        for(int coin:coins){
-            for(int i=1;i<=amount;i++){
-                if(coin<=i){
-                    dp[i]+=dp[i-coin];
-                }
-            }
+        int n=coins.length;
+        int dp[][]=new int[n][amount+1];
+        for(int row[]:dp)
+        Arrays.fill(row,-1);
+        return countwaystomakechangeutil(coins,n-1,amount,dp);
+    }
+    static int countwaystomakechangeutil(int[] coins, int ind, int amount,int[][]dp){
+        if(ind==0){
+            if(amount%coins[0]==0)
+            return 1;
+            else
+            return 0;
         }
-      return dp[amount];
+        if(dp[ind][amount]!=-1)
+        return dp[ind][amount];
+        int nottaken=countwaystomakechangeutil(coins,ind-1,amount,dp);
+        int taken=0;
+        if(coins[ind]<=amount)
+     taken=countwaystomakechangeutil(coins,ind,amount-coins[ind],dp);
+     return dp[ind][amount]=nottaken+taken;
     }
 }

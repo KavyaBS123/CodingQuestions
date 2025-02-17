@@ -170,6 +170,7 @@ Coding Questions I solved
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -194,6 +195,7 @@ Coding Questions I solved
 | [0207-course-schedule](https://github.com/KavyaBS123/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Coding Questions I solved
 | ------- |
 | [0207-course-schedule](https://github.com/KavyaBS123/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -296,4 +299,8 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

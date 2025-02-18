@@ -38,6 +38,7 @@ Coding Questions I solved
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -196,6 +197,7 @@ Coding Questions I solved
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Coding Questions I solved
 | [0064-minimum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |

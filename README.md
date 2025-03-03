@@ -11,6 +11,7 @@ Coding Questions I solved
 | [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
@@ -230,6 +231,7 @@ Coding Questions I solved
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
@@ -284,6 +286,7 @@ Coding Questions I solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |

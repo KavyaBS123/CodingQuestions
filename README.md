@@ -50,6 +50,7 @@ Coding Questions I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaBS123/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
@@ -82,6 +83,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/KavyaBS123/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/KavyaBS123/CodingQuestions/tree/master/0038-count-and-say) |
@@ -98,6 +100,7 @@ Coding Questions I solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KavyaBS123/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |

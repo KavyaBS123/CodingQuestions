@@ -35,6 +35,7 @@ Coding Questions I solved
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
@@ -128,6 +129,7 @@ Coding Questions I solved
 | [0494-target-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -202,6 +204,7 @@ Coding Questions I solved
 | [0207-course-schedule](https://github.com/KavyaBS123/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
@@ -293,6 +296,7 @@ Coding Questions I solved
 | [0063-unique-paths-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |

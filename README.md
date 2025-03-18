@@ -43,6 +43,7 @@ Coding Questions I solved
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -182,6 +183,7 @@ Coding Questions I solved
 | [0543-diameter-of-binary-tree](https://github.com/KavyaBS123/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -211,6 +213,7 @@ Coding Questions I solved
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Coding Questions I solved
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -326,6 +330,7 @@ Coding Questions I solved
 | ------- |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 ## Bit Manipulation
 |  |
 | ------- |

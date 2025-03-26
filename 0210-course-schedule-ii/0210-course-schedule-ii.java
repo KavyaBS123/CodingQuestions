@@ -32,8 +32,10 @@ class Solution {
                 if(indegree[it]==0) q.add(it);
             }
         }
-        if(ind==numCourses) return topo;
-        int [] arr={};
+        if(ind==numCourses)
+        //Checks whether all elements have been added for topo sort
+         return topo; // returns that sort
+        int [] arr={}; // if not elements are present then take empty arrya and return that
         return arr;
     }
 }

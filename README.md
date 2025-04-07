@@ -249,6 +249,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |

@@ -5,6 +5,7 @@ Coding Questions I solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
@@ -222,6 +223,7 @@ Coding Questions I solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |

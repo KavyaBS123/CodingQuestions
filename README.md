@@ -41,6 +41,7 @@ Coding Questions I solved
 | [0518-coin-change-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/KavyaBS123/CodingQuestions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/KavyaBS123/CodingQuestions/tree/master/0890-lemonade-change) |

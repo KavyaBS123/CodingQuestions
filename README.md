@@ -18,6 +18,7 @@ Coding Questions I solved
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/KavyaBS123/CodingQuestions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/KavyaBS123/CodingQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaBS123/CodingQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -282,6 +283,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/KavyaBS123/CodingQuestions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0494-target-sum) |
 ## Linked List
 |  |
@@ -347,4 +349,5 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/KavyaBS123/CodingQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

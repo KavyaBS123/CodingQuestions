@@ -50,6 +50,7 @@ Coding Questions I solved
 | [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -225,6 +226,7 @@ Coding Questions I solved
 | [0820-find-eventual-safe-states](https://github.com/KavyaBS123/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Coding Questions I solved
 | [0967-minimum-falling-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KavyaBS123/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KavyaBS123/CodingQuestions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/KavyaBS123/CodingQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |

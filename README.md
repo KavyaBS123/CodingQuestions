@@ -268,6 +268,7 @@ Coding Questions I solved
 | [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/KavyaBS123/CodingQuestions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
@@ -281,6 +282,7 @@ Coding Questions I solved
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KavyaBS123/CodingQuestions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer

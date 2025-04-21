@@ -8,6 +8,7 @@ Coding Questions I solved
 | [0001-two-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
@@ -62,6 +63,7 @@ Coding Questions I solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaBS123/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |

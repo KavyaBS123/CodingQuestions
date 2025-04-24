@@ -57,6 +57,7 @@ Coding Questions I solved
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -244,6 +245,7 @@ Coding Questions I solved
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Counting
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KavyaBS123/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |

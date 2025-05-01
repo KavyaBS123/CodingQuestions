@@ -27,6 +27,7 @@ Coding Questions I solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KavyaBS123/CodingQuestions/tree/master/0198-house-robber) |
@@ -380,6 +381,7 @@ Coding Questions I solved
 | ------- |
 | [0029-divide-two-integers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/KavyaBS123/CodingQuestions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->

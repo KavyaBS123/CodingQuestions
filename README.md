@@ -31,6 +31,7 @@ Coding Questions I solved
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KavyaBS123/CodingQuestions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
@@ -295,6 +296,7 @@ Coding Questions I solved
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaBS123/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KavyaBS123/CodingQuestions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
@@ -337,6 +339,7 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -384,4 +387,8 @@ Coding Questions I solved
 | [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0800-letter-case-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

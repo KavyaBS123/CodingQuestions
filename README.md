@@ -28,6 +28,7 @@ Coding Questions I solved
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KavyaBS123/CodingQuestions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ Coding Questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
@@ -277,6 +279,7 @@ Coding Questions I solved
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KavyaBS123/CodingQuestions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KavyaBS123/CodingQuestions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 ## Memoization

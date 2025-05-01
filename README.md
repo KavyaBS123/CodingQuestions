@@ -57,6 +57,7 @@ Coding Questions I solved
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KavyaBS123/CodingQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers

@@ -321,11 +321,13 @@ Coding Questions I solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/KavyaBS123/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/KavyaBS123/CodingQuestions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KavyaBS123/CodingQuestions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KavyaBS123/CodingQuestions/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/KavyaBS123/CodingQuestions/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Indexed Tree
 |  |

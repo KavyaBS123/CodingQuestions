@@ -399,5 +399,6 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/KavyaBS123/CodingQuestions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/KavyaBS123/CodingQuestions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KavyaBS123/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

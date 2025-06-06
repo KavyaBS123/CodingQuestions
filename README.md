@@ -395,4 +395,8 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/KavyaBS123/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@ Coding Questions I solved
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KavyaBS123/CodingQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ Coding Questions I solved
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -450,4 +452,8 @@ Coding Questions I solved
 | [2087-confirmation-rate](https://github.com/KavyaBS123/CodingQuestions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/KavyaBS123/CodingQuestions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KavyaBS123/CodingQuestions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

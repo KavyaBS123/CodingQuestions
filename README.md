@@ -15,6 +15,7 @@ Coding Questions I solved
 | [0039-combination-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/KavyaBS123/CodingQuestions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KavyaBS123/CodingQuestions/tree/master/0057-insert-interval) |
@@ -130,6 +131,7 @@ Coding Questions I solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaBS123/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KavyaBS123/CodingQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KavyaBS123/CodingQuestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0063-unique-paths-ii) |
@@ -309,6 +311,7 @@ Coding Questions I solved
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KavyaBS123/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |

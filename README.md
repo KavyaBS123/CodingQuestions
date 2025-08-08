@@ -409,6 +409,7 @@ Coding Questions I solved
 | [0175-combine-two-tables](https://github.com/KavyaBS123/CodingQuestions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KavyaBS123/CodingQuestions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/KavyaBS123/CodingQuestions/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/KavyaBS123/CodingQuestions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/KavyaBS123/CodingQuestions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KavyaBS123/CodingQuestions/tree/master/0197-rising-temperature) |

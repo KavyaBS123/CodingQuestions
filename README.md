@@ -406,6 +406,7 @@ Coding Questions I solved
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KavyaBS123/CodingQuestions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KavyaBS123/CodingQuestions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/KavyaBS123/CodingQuestions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/KavyaBS123/CodingQuestions/tree/master/0196-delete-duplicate-emails) |

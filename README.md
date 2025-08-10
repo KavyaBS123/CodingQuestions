@@ -30,6 +30,7 @@ Coding Questions I solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaBS123/CodingQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
@@ -263,6 +264,7 @@ Coding Questions I solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
@@ -398,6 +400,7 @@ Coding Questions I solved
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KavyaBS123/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/KavyaBS123/CodingQuestions/tree/master/0801-is-graph-bipartite) |

@@ -31,6 +31,7 @@ Coding Questions I solved
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KavyaBS123/CodingQuestions/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ Coding Questions I solved
 | ------- |
 | [0056-merge-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KavyaBS123/CodingQuestions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
@@ -258,6 +260,7 @@ Coding Questions I solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaBS123/CodingQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KavyaBS123/CodingQuestions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
@@ -266,6 +269,7 @@ Coding Questions I solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 ## Graph
 |  |
@@ -316,6 +320,7 @@ Coding Questions I solved
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KavyaBS123/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |

@@ -33,6 +33,7 @@ Coding Questions I solved
 | [0128-longest-consecutive-sequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KavyaBS123/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
@@ -159,6 +160,7 @@ Coding Questions I solved
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/KavyaBS123/CodingQuestions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KavyaBS123/CodingQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |

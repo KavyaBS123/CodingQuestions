@@ -1,52 +1,29 @@
-// To rotate right by k:
-
-// Reverse the entire array.
-//  Example:
-
-// [1, 2, 3, 4, 5, 6, 7] → [7, 6, 5, 4, 3, 2, 1]
-// Reverse the first k elements.
-
-
-// [7, 6, 5, 4, 3, 2, 1] → [5, 6, 7, 4, 3, 2, 1]
-// Reverse the remaining n - k elements.
-
-
-// [5, 6, 7, 4, 3, 2, 1] → [5, 6, 7, 1, 2, 3, 4]
-
-
-
-
 class Solution {
     public void rotate(int[] nums, int k) {
-    int l=0,r=nums.length-1;
-     k=k%nums.length;
-    while(l<r){
-        int temp=nums[l];
-        nums[l]=nums[r];
-        nums[r]=temp;
-        l++;
-        r--;
+        
+//       int n=nums.length;
+//       k%=n;
+//       for(int steps=0;steps<k;steps++){
+//         int last=nums[n-1];
+//         for(int i=n-1;i>0;i--){
+//             nums[i]=nums[i-1];
+//         }
+//         nums[0]=last;
+//       }
+//     }
+// }
+int n=nums.length;
+k%=n;
+reverse(nums,0,n-1);
+reverse(nums,0,k-1);
+reverse(nums,k,n-1);
     }
-    l=0;
-    r=k-1;
-    while(l<r){
-        int temp=nums[l];
-        nums[l]=nums[r];
-        nums[r]=temp;
-        l++;
-        r--;
+private void reverse(int []nums , int start , int end){
+    for(int i=start,j=end;i<j;i++,j--){
+int temp=nums[i];
+nums[i]=nums[j];
 
+nums[j]=temp;
     }
-    l=k;
-    r=nums.length-1;
-    while(l<r){
-        int temp=nums[l];
-        nums[l]=nums[r];
-        nums[r]=temp;
-        l++;
-        r--;
-    }
-
-       
-    }
+}
 }

@@ -41,6 +41,7 @@ Coding Questions I solved
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KavyaBS123/CodingQuestions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/KavyaBS123/CodingQuestions/tree/master/0312-burst-balloons) |
@@ -83,6 +84,7 @@ Coding Questions I solved
 | [0088-merge-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -318,6 +320,7 @@ Coding Questions I solved
 | [0069-sqrtx](https://github.com/KavyaBS123/CodingQuestions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
@@ -412,6 +415,7 @@ Coding Questions I solved
 | [0078-subsets](https://github.com/KavyaBS123/CodingQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0800-letter-case-permutation) |
 ## Prefix Sum
 |  |

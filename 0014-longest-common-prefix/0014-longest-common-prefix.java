@@ -1,14 +1,17 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
+        if(strs==null || strs.length==0) return "";
         String prefix=strs[0];
-        for(int index=1;index<strs.length;index++){
-            while(strs[index].indexOf(prefix)!=0){
-
-            
-            prefix=prefix.substring(0,prefix.length()-1);
+        for(int i=1;i<strs.length;i++){
+            int j=0;
+            while(j<prefix.length() &&j<strs[i].length() && prefix.charAt(j)==strs[i].charAt(j)){
+                j++;
+            }
+            prefix=prefix.substring(0,j);
+            if(prefix.isEmpty())
+            return "";
         }
+        return prefix;
         
     }
-    return prefix;
-}
 }

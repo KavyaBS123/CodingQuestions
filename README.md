@@ -143,6 +143,7 @@ Coding Questions I solved
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0800-letter-case-permutation) |
+| [0812-rotate-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/KavyaBS123/CodingQuestions/tree/master/1197-parsing-a-boolean-expression) |
@@ -504,4 +505,5 @@ Coding Questions I solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

@@ -1,24 +1,27 @@
 class Solution {
     public String countAndSay(int n) {
-        String res="1";
-        for(int i=0;i<n-1;i++){
-            char ss=res.charAt(0);
-            StringBuilder s=new StringBuilder();
-            int c=1;
-            for(int j=1;j<res.length();j++){
-                if(ss!=res.charAt(j)){
-                    s.append(c);
-                    s.append(ss);
-                    c=0;
-                    ss=res.charAt(j);
-                }
-                c++;
-            }
-            s.append(c);
-            s.append(ss);
-            res=s.toString();
+        if(n==1)
+        return "1";
+        String result="1";
+        for(int i=2;i<=n;i++){
+            result=runlengthencode(result);
         }
-        return res;
+        return result;
         
+    }
+    private String runlengthencode(String s){
+        StringBuilder sb=new StringBuilder();
+        int count=1;
+        for(int i=1;i<=s.length();i++){
+            if(i<s.length() && s.charAt(i)==s.charAt(i-1)){
+                count++;
+            } else{
+                sb.append(count);
+                sb.append(s.charAt(i-1));
+                count=1;
+            }
+            
+        }
+        return sb.toString();
     }
 }

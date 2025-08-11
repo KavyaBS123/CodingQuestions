@@ -7,6 +7,7 @@ Coding Questions I solved
 | ------- |
 | [0001-two-sum](https://github.com/KavyaBS123/CodingQuestions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaBS123/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/KavyaBS123/CodingQuestions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |

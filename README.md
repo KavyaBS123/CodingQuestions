@@ -83,6 +83,7 @@ Coding Questions I solved
 | [0031-next-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/KavyaBS123/CodingQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ Coding Questions I solved
 | [0038-count-and-say](https://github.com/KavyaBS123/CodingQuestions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/KavyaBS123/CodingQuestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |

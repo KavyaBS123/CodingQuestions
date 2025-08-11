@@ -87,6 +87,7 @@ Coding Questions I solved
 | [0189-rotate-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavyaBS123/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/KavyaBS123/CodingQuestions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KavyaBS123/CodingQuestions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -136,6 +137,7 @@ Coding Questions I solved
 | [0132-palindrome-partitioning-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/KavyaBS123/CodingQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/KavyaBS123/CodingQuestions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/KavyaBS123/CodingQuestions/tree/master/0800-letter-case-permutation) |

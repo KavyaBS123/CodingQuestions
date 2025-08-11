@@ -111,6 +111,7 @@ Coding Questions I solved
 | [0088-merge-sorted-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KavyaBS123/CodingQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/KavyaBS123/CodingQuestions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KavyaBS123/CodingQuestions/tree/master/0435-non-overlapping-intervals) |
@@ -133,6 +134,7 @@ Coding Questions I solved
 | [0115-distinct-subsequences](https://github.com/KavyaBS123/CodingQuestions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KavyaBS123/CodingQuestions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0132-palindrome-partitioning-ii) |
+| [0242-valid-anagram](https://github.com/KavyaBS123/CodingQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -274,6 +276,7 @@ Coding Questions I solved
 | [0128-longest-consecutive-sequence](https://github.com/KavyaBS123/CodingQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KavyaBS123/CodingQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavyaBS123/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KavyaBS123/CodingQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavyaBS123/CodingQuestions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |

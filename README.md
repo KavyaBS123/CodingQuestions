@@ -72,6 +72,7 @@ Coding Questions I solved
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KavyaBS123/CodingQuestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/KavyaBS123/CodingQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KavyaBS123/CodingQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KavyaBS123/CodingQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -124,6 +125,7 @@ Coding Questions I solved
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KavyaBS123/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KavyaBS123/CodingQuestions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/KavyaBS123/CodingQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KavyaBS123/CodingQuestions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -289,6 +291,7 @@ Coding Questions I solved
 | [0387-first-unique-character-in-a-string](https://github.com/KavyaBS123/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [1129-longest-string-chain](https://github.com/KavyaBS123/CodingQuestions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KavyaBS123/CodingQuestions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/KavyaBS123/CodingQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KavyaBS123/CodingQuestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Counting
 |  |

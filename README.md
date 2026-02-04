@@ -479,6 +479,7 @@ Coding Questions I solved
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KavyaBS123/CodingQuestions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1068-product-sales-analysis-i) |
 | [1135-customers-who-bought-all-products](https://github.com/KavyaBS123/CodingQuestions/tree/master/1135-customers-who-bought-all-products) |
+| [1148-article-views-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/KavyaBS123/CodingQuestions/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1161-project-employees-i) |

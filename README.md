@@ -487,6 +487,7 @@ Coding Questions I solved
 | [1179-game-play-analysis-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1179-game-play-analysis-i) |
 | [1179-reformat-department-table](https://github.com/KavyaBS123/CodingQuestions/tree/master/1179-reformat-department-table) |
 | [1182-game-play-analysis-iv](https://github.com/KavyaBS123/CodingQuestions/tree/master/1182-game-play-analysis-iv) |
+| [1211-queries-quality-and-percentage](https://github.com/KavyaBS123/CodingQuestions/tree/master/1211-queries-quality-and-percentage) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/KavyaBS123/CodingQuestions/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/KavyaBS123/CodingQuestions/tree/master/1278-product-price-at-a-given-date) |

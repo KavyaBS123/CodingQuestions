@@ -1,11 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
+
+
+        // Arrays.sort(nums);
         int n=nums.length;
-        int total=n*(n+1)/2;
-        int sum=0;
+        int expsum=n*(n+1)/2;
+        int actualsum=0;
         for(int num:nums){
-            sum+=num;
+             actualsum += num;
         }
-        return total-sum;
+        return expsum-actualsum;
     }
 }
+        // for(int i=0;i<n;i++){
+        //     if(nums[i]!=i){
+        //         return i;
+        //     }
+        // }
+        // return nums.length;
+   

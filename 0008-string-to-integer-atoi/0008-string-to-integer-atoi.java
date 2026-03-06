@@ -1,36 +1,37 @@
 class Solution {
     public int myAtoi(String s) {
-        final int len=s.length();
-        if(len==0){
-            return 0;
-        }
-        int index=0;
-        while(index<len && s.charAt(index)==' '){
-            index++;
-        }
-        if(index==len){
-            return 0;
-        }
-        char ch;
-        boolean isNegative=(ch=s.charAt(index))=='-';
-        if(isNegative|| ch=='+'){
-            ++index;
-        }
-        final int maxLimit=Integer.MAX_VALUE/10;
-        int result=0;
-        while(index<len && isDigit(ch=s.charAt(index))){
-            int digit=ch-'0';
-            if(result>maxLimit ||(result==maxLimit && digit>7)){
-                return isNegative ?Integer.MIN_VALUE: Integer.MAX_VALUE;
-
-            }
-            result=(result*10)+digit;
-            ++index;
-        }
-        return isNegative? -result:result;
         
-    }
-    private boolean isDigit(char ch){
-        return ch>='0' && ch<='9';
+      int i=0;
+      int n=s.length();
+      int sign=1;
+      long num=0;
+
+
+      while(i<s.length() && s.charAt(i)==' '){
+        i++;
+      }
+        if(i<n && ( s.charAt(i)=='+' || s.charAt(i)=='-')){
+        if(s.charAt(i)=='-'){
+            sign =-1;
+        }
+        i++;
+      }
+      while(i<n && Character.isDigit(s.charAt(i))){
+        int digit=s.charAt(i)-'0';
+          //char c='5'  internally it is 53 , so '5' ASCII =53 and '0' ASCII=48 so it becomes 53-48=5
+
+        num=num*10+digit;
+
+        //handle overflow if large numbers you get on multiply
+
+        if(sign*num > Integer.MAX_VALUE){
+            return Integer.MAX_VALUE;
+        }
+        if(sign*num< Integer.MIN_VALUE){
+            return Integer.MIN_VALUE;
+        }
+        i++;
+      }
+      return (int)(sign*num);
     }
 }
